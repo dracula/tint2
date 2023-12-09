@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/tint2](https://draculatheme.c
 
 ## Team
 
-This theme is maintained by the following person and a bunch of [awesome contributor](https://github.com/tuzu128).
+This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/tuzu128).
 
 | [![tuzu128](https://github.com/tuzu128.png?size=100)](https://github.com/tuzu128) |
 | ---------------------------------------------------------------------------------------- |
